@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohsen, there is nothing really interesting about me for now...!
-- 💻 Computer Engineer
+- 💻 Computer Engineer Student
 - ⚙️ Tech lover
 <!---
 Mohseniqr/Mohseniqr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
